@@ -1,5 +1,5 @@
 - [Home](/)
-- [Programming](programming/Readme.md)
+- [Programming](programming/index)
   - [Python](programming/python)
   - [Java](programming/java)
   - [JavaScript](programming/javascript)

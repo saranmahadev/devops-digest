@@ -7,3 +7,5 @@
   - [📚 Ruby](programming/ruby)
   - [📚 Perl](programming/perl)
   - [🗒 Exercises](programming/exercises)
+  - [⏮ Self Assessment](programming/assessment)
+

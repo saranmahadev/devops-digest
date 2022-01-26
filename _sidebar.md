@@ -19,3 +19,7 @@
   - [📚 Resources](networking/resources)
   - [📃 Checklist](networking/checklist)
   - [⏮ Self Assessment](networking/assessment)
+- [💻 Operating Systems](os/index)
+  - [📚 Resources](os/resources)
+  - [📃 Cheatsheet](os/cheatsheet)
+  - [⏮ Self Assessment](os/assessment)

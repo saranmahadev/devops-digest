@@ -45,3 +45,5 @@ Star topology
 A central server node is linked to multiple client network devices. This topology performs better as data doesn’t have to go through each node. It is also more reliable.
 Mesh topology
 Every node is connected to many other nodes. In a full mesh topology, every node is connected to every other node in the network.
+
+> The above discussed are some introduction to the networking. For Learning utilize the Resources section and get familiar with the concepts.

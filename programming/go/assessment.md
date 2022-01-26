@@ -1,6 +1,8 @@
-# FAQ Section
+# Self Assessment
 
-Introduction text for the FAQ page.
++ Must Read +
+  
+    Read the Assessment *[or]* Try to Answer the Questions without Opening the Accordion.
 
 + What are some characteristics of the Go programming language? +
 

@@ -1,5 +1,5 @@
-- [Home](/)
-- [Programming](programming/index)
+- [🏠Home](/)
+- [👨‍💻Programming](programming/index)
   - 📚 Python
     - [📚 Resources](programming/python)
     - [📃 Cheatsheet](programming/python/cheatsheet)
@@ -15,4 +15,7 @@
   - [📚 JavaScript](programming/javascript)  
   - [📚 Ruby](programming/ruby)
   - [📚 Perl](programming/perl)
-  
+- [🌐 Networking](networking/index)  
+  - [📚 Resources](networking/resources)
+  - [📃 Checklist](networking/checklist)
+  - [⏮ Self Assessment](networking/assessment)

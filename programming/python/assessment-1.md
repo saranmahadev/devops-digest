@@ -4,6 +4,7 @@
 + Must Read +
   
   Read the Assessment *[or]* Try to Answer the Questions without Opening the Accordion.
+  
 + What are some characteristics of the Python programming language? +
 
   - General Purpose Programming Language

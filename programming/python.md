@@ -51,4 +51,3 @@ Python is a popular programming language created by Guido van Rossum, and releas
 | Coursera | [📚](https://www.coursera.org/specializations/python) |
 | Educative | [📚](https://www.educative.io/courses/learn-python-3-from-scratch) |
 | Udemy | [📚](https://www.udemy.com/course/complete-python-bootcamp/) |
-

@@ -10,7 +10,7 @@
   <!-- Docsify Vue CSS -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <!-- Docsify Accordion CSS -->
-  <link rel="stylesheet" href="//unpkg.com/docsify-accordion/src/style.css">
+  <link rel="stylesheet" href="//unpkg.com/docsify-accordion/src/style.css"> 
 </head>
 <body>
   <div id="app">
@@ -18,21 +18,17 @@
       ...Rome is not built in a day...
     </h1>
   </div>
+  
   <script>
     window.$docsify = {
-      name: 'Devops Digest',
-      repo: 'https://github.com/saranmahadev/devops-digest',
-      loadSidebar: true,
-      loadNavbar: true,      
-      coverpage: true,
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md',
-      },
-      subMaxLevel: 3,
-      sidebarDisplayLevel: 1
-    }
-
-    
+    name: 'Devops Digest',
+    repo: 'https://github.com/saranmahadev/devops-digest',
+    loadSidebar: true,
+    loadNavbar: true,      
+    coverpage: true,      
+    subMaxLevel: 3,
+    sidebarDisplayLevel: 1,    
+}    
   </script>
 
   <!-- Docsify v4 -->
@@ -45,6 +41,9 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify-example-panels"></script>
   <!-- Docsify Accordion Plugin-->
   <script src="//unpkg.com/docsify-accordion/src/index.js"></script>
+  <!-- Main JS -->
+  <script src="assets/js/main.js"></script>
+ 
 </script>
 </body>
 </html>
